@@ -34,6 +34,9 @@ vendor/
 # Data directory
 /data/*
 /data/blocks/
+/docs-data/*
+
+
 
 # Debug files
 __debug_bin
